@@ -1,0 +1,1 @@
+The C-src-firmware folder contains the source code for compiling the firmware for the microcontroller on the TrackShrinker Digital board.
